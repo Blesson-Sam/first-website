@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-color: #E4F9F5;
+    text-align: center;
+}
+.name{
+    margin-top: 150px;
+    font-family: 'Sacramento', cursive;
+}
+.para{
+    font-family: 'Rubik Bubbles', cursive;
+}
+.cloud1{
+    position: absolute;
+    top: 270px;
+    left:460px;
+}
+.cloud2{
+    position: absolute;
+    top: 100px;
+    right:450px;
+}
+.mountain{
+    position: relative;
+    top: 20px; 
+}
